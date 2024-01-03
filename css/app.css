@@ -1,0 +1,44 @@
+.container {
+    margin: 20px;
+}
+
+.random-film {
+    padding: 10px;
+    border: 2px solid #4CAF50;
+}
+
+
+.coin-table {
+    
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    margin-right: 50px;
+    display: inline-flex;
+   
+    
+}
+
+.coin-image{
+    display:  flex;
+}
+
+
+
+.coin-table th, .coin-table td {
+    padding: 18px;
+    text-align: left;
+    border: 1px solid #ddd;
+    
+}
+
+.coin-table th {
+    background-color: #f2f2f2;
+}
+
