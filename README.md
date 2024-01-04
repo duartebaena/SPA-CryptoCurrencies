@@ -1,5 +1,5 @@
 # SPA with Crypto Currencies real-time data 
-## Brief resume:
+## Brief resume
 * SPA that consumes an API with Crypto Currencies real-time data and displays it.
 * When entering the app you have a button to show stats from 100 coins. "The maximum result is 100 coins per request" Or you can click on the crypto logos displayed beneath the button, and it will show you the stats from that specific coin.
 * **API** used to fetch data: "https://www.coinlore.com/cryptocurrency-data-api"
