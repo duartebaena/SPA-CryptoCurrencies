@@ -10,7 +10,8 @@
 
 ### This is a Minimum Value Proposition (MVP), for the future I will try to add new features.
 * It was implemented as an extra challenge while I was studying at Code For All_
-
+# TODO 
+* USE ES6
 
 
 
